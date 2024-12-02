@@ -9,3 +9,5 @@ class MyTestCase(unittest.TestCase): #glazyrina
 
 if __name__ == '__main__':
     unittest.main()
+
+print("ocherednoy prikol") #cool
