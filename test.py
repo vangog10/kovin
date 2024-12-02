@@ -4,7 +4,7 @@ import main
 
 class MyTestCase(unittest.TestCase): #glazyrina
     def test_something(self):
-        self.assertEqual(True, False)  # add assertion here
+        self.assertEqual(True, False)  # vsem priv
 
 
 if __name__ == '__main__': #konstantinova
