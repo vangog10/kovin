@@ -1,3 +1,0 @@
-﻿  СppTester.cpp
-E:\Projects\CLionProjects\СppTester\СppTester\СppTester.cpp(19,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-  СppTester.vcxproj -> E:\Projects\CLionProjects\СppTester\x64\Debug\СppTester.exe
