@@ -2,7 +2,7 @@ import unittest
 import main
 
 
-class MyTestCase(unittest.TestCase):
+class MyTestCase(unittest.TestCase): #glazyrina
     def test_something(self):
         self.assertEqual(True, False)  # add assertion here
 
