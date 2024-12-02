@@ -11,3 +11,4 @@ if __name__ == '__main__': #konstantinova
     unittest.main()
 
 print("ocherednoy prikol") #pupupu 
+print('bez pricolov')
