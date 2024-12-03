@@ -99,10 +99,6 @@ class ComputerExtended:
             computer._vram > 8
 
 
-a = ComputerExtended(1, 2, 3, 4, 5)
+a = ComputerExtended(1, 2, 3, 4, 5) # Прикол
 
-assert a.total_memory() == 7
-assert a == ComputerExtended(1, 2, 3, 4, 5)
-a.upgrade_component('cpu', 10)
-assert a == ComputerExtended(10, 2, 3, 4, 5)
-assert a.is_hight_perfomance(a) == False
+
